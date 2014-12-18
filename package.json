@@ -1,0 +1,22 @@
+{
+  "name": "libris-cleaner",
+  "description": "",
+  "repository": {},
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "sax": "^0.6.1",
+    "request": "^2.51.0",
+    "iconv": "~2.1.4"
+  },
+  "bugs": {},
+  "homepage": "http://www.ldbib.se",
+  "main": "./app.js",
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "xml"
+  ],
+  "author": "Kristin Nordahl",
+  "license": "AGPLv3"
+}
